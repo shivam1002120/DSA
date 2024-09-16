@@ -1,0 +1,19 @@
+Intro to array
+
+int a=1;
+int b=2;
+int c=3;
+.
+.
+.
+int j=10;
+
+100 variables=> to store 100 variables => Arrays
+
+ArraySyntax:
+
+type arr[] = new type[size];
+for e.g.
+-> Create an array of size 100 storing integers.
+
+int arr[] = new int[100];

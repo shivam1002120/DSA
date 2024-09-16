@@ -1,0 +1,39 @@
+L1:::::::->>
+Functions and Arrays:
+https://www.youtube.com/watch?v=tXbgyBCLteM&list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r&pp=iAQB
+
+2-D Arrays:
+https://www.youtube.com/watch?v=aN9zP9M_FZ8&list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH&pp=iAQB
+
+Strings, StringBuilder and ArrayList:
+https://www.youtube.com/watch?v=4ZOV3PYe0y0&list=PL-Jc9J83PIiFIKbdCKuYwsV8KaX-jHe0V&pp=iAQB
+
+Recursion:
+https://www.youtube.com/watch?v=5Q5ed7PWJ8I&list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs&pp=iAQB
+
+DP:
+https://www.youtube.com/watch?v=94dfRrDANRY&list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy&pp=iAQB
+
+Time and Space:
+https://www.youtube.com/watch?v=Jv-eGC2xmtU&list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f&pp=iAQB
+
+Stacks and Queues:
+https://www.youtube.com/watch?v=Fu03UXZgI9s&list=PL-Jc9J83PIiEyUGT3S8zPdTMYojwZPLUM&pp=iAQB
+
+Linked List:
+https://www.youtube.com/watch?v=GVwbTCnZ5kk&list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&pp=iAQB
+
+Hashmap and Heaps:
+https://www.youtube.com/watch?v=ukTRZD-WJH4&list=PL-Jc9J83PIiHq5rMZasunIR19QG3E-PAA&pp=iAQB
+
+Generic Tree:
+https://www.youtube.com/watch?v=MhpRvvdRBqY&list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_&pp=iAQB
+
+Binary Tree:
+https://www.youtube.com/watch?v=W8xT5SkuV3w&list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4&pp=iAQB
+
+BST:
+https://www.youtube.com/watch?v=wE5nFfdr7Ls&list=PL-Jc9J83PIiGl_-iS5k7R7SZoZPt0Fab2&pp=iAQB
+
+Graph:
+https://www.youtube.com/watch?v=t0r04fYdT7U&list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v&pp=iAQB

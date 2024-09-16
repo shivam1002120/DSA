@@ -32,9 +32,11 @@ public class a_2kpc {
         for(int i=0;i<kpCode.length();i++){
             char ch01 = kpCode.charAt(i);
             for(String s:rAL){
-                ikpc.add(s+ch0);
+                ikpc.add(ch01+s);
             }
         }
+
+        return ikpc;
 
     }
 
